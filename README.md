@@ -1,6 +1,6 @@
 # cash
-R code and data files 
+R code and data files for a paper entitled: 
 
-for a paper entitled: "Cash is alive: How economists explain holding and use of cash
+"Cash is alive: How economists explain holding and use of cash
 
 Prepared for the Journal of Economic Literature
