@@ -8,4 +8,4 @@ Prepared for the Journal of Economic Literature
 Instructions: Place all files into a single directory (folder). 
 Open the cash_xxx.R file. 
 Change the working director (WD). 
-Run the file. 
+Run the cash_xxx.R file. 
