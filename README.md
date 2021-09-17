@@ -9,3 +9,4 @@ Instructions: Place all files into a single directory (folder).
 Open the cash_xxx.R file. 
 Change the working director (WD). 
 Run the cash_xxx.R file. 
+The code should generate all tables and figures that rely on data sets.
