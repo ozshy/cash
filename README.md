@@ -7,7 +7,7 @@ Journal of Economic Literature (forthcoming)
 
 Instructions: 
 
-There are eight (8) data files in R (.rds) format and one (1) R-code file. Follow the following steps:
+There are eight (8) data files in R format (.rds) and one (1) R-code file. Follow the following steps:
 
 1. Place all 9 files into a single directory (folder) on your computer. 
 
