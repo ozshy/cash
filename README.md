@@ -11,10 +11,12 @@ There are eight (8) data files in R format (.rds) and one (1) R-code file. Follo
 
 1. Place all 9 files into a single directory (folder) on your computer. 
 
-2. Launch the cash_2022_1_19.R file using your R-software (for example, R-Studio for just R).
+2. Launch the cash_2022_3_31.R file using your R-software (for example, R-Studio for just R).
 
 3. Change the working director (WD) to the folder where all 9 files are stored on your computer. 
 
-4. Run the code using the cash_2022_1_19.R file. 
+4. Run the code using the cash_2022_3_31.R file. 
 
 5. The code should generate all tables and figures that rely on the data (.rds) files.
+
+Finally, dditional information on data sources is provided in the file: Cash Survey (JEL) Data Readme file.pdf on this site. 
