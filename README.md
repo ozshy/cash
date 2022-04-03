@@ -19,4 +19,4 @@ There are eight (8) data files in R format (.rds) and one (1) R-code file. Follo
 
 5. The code should generate all tables and figures that rely on the data (.rds) files.
 
-Finally, additional information on data sources is provided in the file: Cash Survey (JEL) Data Readme file.pdf on this site. 
+Finally, additional information on data sources is provided in the file: ReadMe.pdf on this site. 
